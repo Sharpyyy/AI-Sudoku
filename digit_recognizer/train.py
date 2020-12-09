@@ -1,5 +1,5 @@
 import argparse
-import utils
+import digit_recognizer.utils
 
 def get_argument_parser(model_name):
     '''
